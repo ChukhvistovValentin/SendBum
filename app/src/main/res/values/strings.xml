@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Добро пожаловать</string>
+    <string name="app_name">Скинуть бомжа</string>
+    <string name="quit">Выход</string>
+    <string name="settings">Настройки</string>
+    <string name="mail">"Написать разработчику"</string>
+    <string name="comments">"Поставить оценку"</string>
+    <string name="share">Отправить ссылку друзьям</string>
+    <string name="comments_part1">"Скинуть бомжа - бесплатное приложение, оно не содержит рекламы! Оставьте отзыв или оценку приложения на Google Play и помогите нам бороться с"</string>
+    <string name="comments_part2">проплаченными конкурентами!</string>
+    <string name="comments_part3">"Любите! Радуйтесь! Всем бобра! Спасибо!"</string>
+    <!--<string name="hyperlink1">Поставить оценку</string>-->
+    <string name="hyperlink2">Оставить отзыв</string>
+    <string name="mail_client_not_create">Почтовый клиент не установлен.</string>
+    <string name="share_with_friends">Поделиться с друзьями</string>
+    <string name="text_1">\'Скинуть бомжа\' для Android: отправка СМС \'Перезвони мне\' в одик клик! https://play.google.com/store/apps/details?id=ru.itSprint.callMePlease Я рекомендую!</string>
+    <string name="text_0">Приложение \'Скинуть бомжа\' для Android</string>
+    <string name="text_2">Отправляйте \'Перезвони мне\' на номера из списка контактов или недавних вызовов</string>
+    <!--<string name="text_3">На связи при любом балансе</string>-->
+    <string name="text_4">Недавние вызовы и SMS</string>
+    <string name="error_send_mess">Отправка запроса невозможна</string>
+    <string name="error_number_operator">Номер \%%s не является мобильным для оператора \%%s</string>
+    <string name="your_rate">Поставьте оценку или отзыв</string>
+    <string name="send_your_rate"><![CDATA[<a href=\"https://play.google.com/store/apps/details?id=ru.itSprint.callMePlease\">Поставить оценку</a>]]></string>
+    <string name="send_your_mail"><![CDATA[<a href=\"https://play.google.com/store/apps/details?id=ru.itSprint.callMePlease\">Написать отзыв</a>]]></string>
+    <string name="address_program">https://play.google.com/store/apps/details?id=ru.itSprint.callMePlease</string>
+    <!--<string name="error_send_query">Отправка запроса невозможна</string>-->
+    <string name="check_setting_operator">Проверьте настройки Вашего сотового оператора</string>
+    <string name="error_device_call">Ваше устройство не поддерживает телефонные вызовы</string>
+    <string name="prog_name">Приложение \'Скинуть бомжа\'</string>
+    <string name="goodmorning">Добрый день!\n</string>
+    <string name="letter_programer">Письмо разработчику</string>
+    <string name="set_of_mobile_numbers">Начните набор мобильного номера получателя</string>
+    <string name="number_not_create">Набор номера не завершен</string>
+    <string name="number_pochti_create">Номер телефона почти набран</string>
+    <string name="maybi_number_error">Возможно, номер набран с ошибкой</string>
+    <string name="press_ok_send">Нажмите ОК для отправки</string>
+    <string name="close_activity">Закрыть</string>
+    <string name="your_operator1">Ваш сотовый оператор(SIM 1):</string>
+    <string name="your_operator2">Ваш сотовый оператор(SIM 2):</string>
+    <string name="splash_text1">Отправляйте просьбу перезвонить людям из списка недавно набранных контактов</string>
+    <string name="splash_text2">Больше не нужно запоминать длинные коды, приложение \'Скинуть бомжа\' сделает это за Вас</string>
+    <string name="splash_text3">Будьте уверены, приложение ничего не отправляет самостоятельно. Оно помогает Вам набирать длинные номера запросов</string>
+</resources>

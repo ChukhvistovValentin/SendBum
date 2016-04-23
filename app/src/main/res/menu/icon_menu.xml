@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/share"
+        android:showAsAction="always"
+        android:title="@string/share" />
+    <item
+        android:id="@+id/comments"
+        android:icon="@drawable/gplay"
+        android:showAsAction="always"
+        android:title="@string/comments" />
+    <item
+        android:id="@+id/mail"
+        android:icon="@drawable/mail"
+        android:showAsAction="always"
+        android:title="@string/mail" />
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_menu_preferences"
+        android:showAsAction="always"
+        android:title="@string/settings" />
+    <item
+        android:id="@+id/quit"
+        android:icon="@drawable/ic_lock_power_off"
+        android:showAsAction="always"
+        android:title="@string/quit" />
+</menu>
